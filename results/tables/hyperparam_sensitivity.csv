@@ -1,0 +1,13 @@
+Dataset,Param_Name,Param_Value,Macro_F1,Rare_F1
+Pancreas,rare_margin_scale,0.0,0.9565,0.945
+PBMC,rare_margin_scale,0.0,0.8554,0.8404
+Pancreas,rare_margin_scale,0.06,0.9563,0.9451
+PBMC,rare_margin_scale,0.06,0.8562,0.8444
+Pancreas,rare_margin_scale,0.12,0.9565,0.9453
+PBMC,rare_margin_scale,0.12,0.8562,0.8444
+Pancreas,rare_margin_scale,0.18,0.9566,0.9454
+PBMC,rare_margin_scale,0.18,0.8561,0.8459
+Pancreas,rare_margin_scale,0.27,0.9569,0.9455
+PBMC,rare_margin_scale,0.27,0.8559,0.8448
+Pancreas,rare_margin_scale,0.36,0.9578,0.9484
+PBMC,rare_margin_scale,0.36,0.8576,0.8537

@@ -1,0 +1,43 @@
+Target_Cohort,Zero_Sparsity_Pct,Method,Macro_F1,Rare_F1,Accuracy
+CEL-Seq2 (pbmc1),88.47,CellTypist,0.7522,,0.6798
+CEL-Seq2 (pbmc1),88.47,SVM,0.8053,,0.7747
+CEL-Seq2 (pbmc1),88.47,SingleR,0.6837,,0.7431
+CEL-Seq2 (pbmc1),88.47,scANVI,0.7924,,0.8024
+CEL-Seq2 (pbmc1),88.47,scPathProto (Ours),0.7708,,0.7194
+CEL-Seq2 (pbmc1),88.47,scPathProto (w/o ZIRG),0.772,,0.7154
+Smart-Seq2 (pbmc1),89.27,CellTypist,0.9486,,0.8498
+Smart-Seq2 (pbmc1),89.27,SVM,0.8897,,0.7431
+Smart-Seq2 (pbmc1),89.27,SingleR,0.773,,0.7233
+Smart-Seq2 (pbmc1),89.27,scANVI,0.9062,,0.8063
+Smart-Seq2 (pbmc1),89.27,scPathProto (Ours),0.9608,,0.8933
+Smart-Seq2 (pbmc1),89.27,scPathProto (w/o ZIRG),0.9484,,0.8893
+10Xv3 (pbmc1),93.22,CellTypist,0.9168,0.7742,0.9258
+10Xv3 (pbmc1),93.22,SVM,0.9229,0.75,0.9392
+10Xv3 (pbmc1),93.22,SingleR,0.8743,0.5347,0.9134
+10Xv3 (pbmc1),93.22,scANVI,0.91,0.7761,0.9252
+10Xv3 (pbmc1),93.22,scPathProto (Ours),0.9299,0.7941,0.9395
+10Xv3 (pbmc1),93.22,scPathProto (w/o ZIRG),0.9327,0.806,0.9404
+10Xv2 (pbmc2),94.94,CellTypist,0.8887,0.982,0.865
+10Xv2 (pbmc2),94.94,SVM,0.9075,0.9616,0.887
+10Xv2 (pbmc2),94.94,SingleR,0.8643,0.8385,0.8543
+10Xv2 (pbmc2),94.94,scANVI,0.8748,0.913,0.8638
+10Xv2 (pbmc2),94.94,scPathProto (Ours),0.9125,0.9759,0.8956
+10Xv2 (pbmc2),94.94,scPathProto (w/o ZIRG),0.9137,0.979,0.8968
+Drop-Seq (pbmc1),96.98,CellTypist,0.8285,0.8348,0.8414
+Drop-Seq (pbmc1),96.98,SVM,0.8878,0.8976,0.8836
+Drop-Seq (pbmc1),96.98,SingleR,0.8127,0.819,0.829
+Drop-Seq (pbmc1),96.98,scANVI,0.6746,0.5603,0.7961
+Drop-Seq (pbmc1),96.98,scPathProto (Ours),0.816,0.8726,0.8402
+Drop-Seq (pbmc1),96.98,scPathProto (w/o ZIRG),0.8147,0.8534,0.8408
+Seq-Well (pbmc1),97.46,CellTypist,0.7419,0.8224,0.7368
+Seq-Well (pbmc1),97.46,SVM,0.7669,0.7338,0.7528
+Seq-Well (pbmc1),97.46,SingleR,0.639,0.5739,0.5979
+Seq-Well (pbmc1),97.46,scANVI,0.6499,0.6179,0.7298
+Seq-Well (pbmc1),97.46,scPathProto (Ours),0.7929,0.8131,0.7654
+Seq-Well (pbmc1),97.46,scPathProto (w/o ZIRG),0.7987,0.8341,0.7642
+inDrop (pbmc1),98.38,CellTypist,0.7184,0.4286,0.7896
+inDrop (pbmc1),98.38,SVM,0.8505,0.8571,0.8315
+inDrop (pbmc1),98.38,SingleR,0.8031,0.8696,0.7129
+inDrop (pbmc1),98.38,scANVI,0.6251,0.4615,0.7377
+inDrop (pbmc1),98.38,scPathProto (Ours),0.8512,0.8421,0.8616
+inDrop (pbmc1),98.38,scPathProto (w/o ZIRG),0.8364,0.7368,0.8622

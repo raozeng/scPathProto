@@ -1,0 +1,7 @@
+Direction,True_Type,Wrong_Pred,Cell_Count,Ref_10Xv2_HVG_Det_Pct,SmartSeq2_HVG_Det_Pct,HVG_Det_Fold_Jump
+Rescued (SVM Wrong -> scPathProto Right),Cytotoxic T cell,Natural killer cell,22,3.73,12.16,3.26
+Rescued (SVM Wrong -> scPathProto Right),CD14+ monocyte,Dendritic cell,14,4.75,21.49,4.52
+Rescued (SVM Wrong -> scPathProto Right),Cytotoxic T cell,CD4+ T cell,7,3.73,12.16,3.26
+Rescued (SVM Wrong -> scPathProto Right),CD4+ T cell,Natural killer cell,1,4.24,11.92,2.81
+Opposite (scPathProto Wrong -> SVM Right),CD4+ T cell,Cytotoxic T cell,4,4.24,11.92,2.81
+Opposite (scPathProto Wrong -> SVM Right),Cytotoxic T cell,CD4+ T cell,2,3.73,12.16,3.26

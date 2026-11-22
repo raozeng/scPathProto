@@ -1,0 +1,73 @@
+Dataset,Rare_Cell_Type,Eval_Setting,Prevalence_Pct,Method,F1_Score
+Pancreas,endothelial,Cross-Platform,2.02,SingleR,0.9837
+Pancreas,endothelial,Cross-Platform,2.02,CellTypist,0.9771
+Pancreas,endothelial,Cross-Platform,2.02,scANVI,0.9579
+Pancreas,endothelial,Cross-Platform,2.02,TOSICA,0.9681
+Pancreas,endothelial,Cross-Platform,2.02,SVM,0.9532
+Pancreas,endothelial,Cross-Platform,2.02,scPathProto (Ours),0.9585
+Pancreas,macrophage*,Intra-Dataset*,0.39,SingleR,0.9905
+Pancreas,macrophage*,Intra-Dataset*,0.39,CellTypist,1.0
+Pancreas,macrophage*,Intra-Dataset*,0.39,scANVI,0.9818
+Pancreas,macrophage*,Intra-Dataset*,0.39,TOSICA,1.0
+Pancreas,macrophage*,Intra-Dataset*,0.39,SVM,0.961
+Pancreas,macrophage*,Intra-Dataset*,0.39,scPathProto (Ours),1.0
+Pancreas,epsilon,Cross-Platform,0.2,SingleR,0.7395
+Pancreas,epsilon,Cross-Platform,0.2,CellTypist,0.8571
+Pancreas,epsilon,Cross-Platform,0.2,scANVI,0.779
+Pancreas,epsilon,Cross-Platform,0.2,TOSICA,0.9714
+Pancreas,epsilon,Cross-Platform,0.2,SVM,0.9239
+Pancreas,epsilon,Cross-Platform,0.2,scPathProto (Ours),0.9111
+Pancreas,Schwann*,Intra-Dataset*,0.09,SingleR,1.0
+Pancreas,Schwann*,Intra-Dataset*,0.09,CellTypist,0.96
+Pancreas,Schwann*,Intra-Dataset*,0.09,scANVI,0.8533
+Pancreas,Schwann*,Intra-Dataset*,0.09,TOSICA,0.9
+Pancreas,Schwann*,Intra-Dataset*,0.09,SVM,1.0
+Pancreas,Schwann*,Intra-Dataset*,0.09,scPathProto (Ours),1.0
+PBMC,Dendritic cell,Cross-Platform,1.23,SingleR,0.5723
+PBMC,Dendritic cell,Cross-Platform,1.23,CellTypist,0.8312
+PBMC,Dendritic cell,Cross-Platform,1.23,scANVI,0.8342
+PBMC,Dendritic cell,Cross-Platform,1.23,TOSICA,0.7625
+PBMC,Dendritic cell,Cross-Platform,1.23,SVM,0.8238
+PBMC,Dendritic cell,Cross-Platform,1.23,scPathProto (Ours),0.855
+PBMC,Plasmacytoid DC,Cross-Platform,0.57,SingleR,0.8944
+PBMC,Plasmacytoid DC,Cross-Platform,0.57,CellTypist,0.7891
+PBMC,Plasmacytoid DC,Cross-Platform,0.57,scANVI,0.5208
+PBMC,Plasmacytoid DC,Cross-Platform,0.57,TOSICA,0.6785
+PBMC,Plasmacytoid DC,Cross-Platform,0.57,SVM,0.8745
+PBMC,Plasmacytoid DC,Cross-Platform,0.57,scPathProto (Ours),0.8849
+Tabula Muris,basal cell,Cross-Platform,2.21,SingleR,0.9826
+Tabula Muris,basal cell,Cross-Platform,2.21,CellTypist,0.9469
+Tabula Muris,basal cell,Cross-Platform,2.21,scANVI,0.9686
+Tabula Muris,basal cell,Cross-Platform,2.21,TOSICA,0.9635
+Tabula Muris,basal cell,Cross-Platform,2.21,SVM,0.9505
+Tabula Muris,basal cell,Cross-Platform,2.21,scPathProto (Ours),0.9512
+Tabula Muris,luminal epithelial,Cross-Platform,1.33,SingleR,0.8617
+Tabula Muris,luminal epithelial,Cross-Platform,1.33,CellTypist,0.9796
+Tabula Muris,luminal epithelial,Cross-Platform,1.33,scANVI,0.9812
+Tabula Muris,luminal epithelial,Cross-Platform,1.33,TOSICA,0.9835
+Tabula Muris,luminal epithelial,Cross-Platform,1.33,SVM,0.9739
+Tabula Muris,luminal epithelial,Cross-Platform,1.33,scPathProto (Ours),0.9892
+Tabula Muris,cardiac muscle cell,Cross-Platform,0.25,SingleR,0.9816
+Tabula Muris,cardiac muscle cell,Cross-Platform,0.25,CellTypist,0.9332
+Tabula Muris,cardiac muscle cell,Cross-Platform,0.25,scANVI,0.9789
+Tabula Muris,cardiac muscle cell,Cross-Platform,0.25,TOSICA,0.9748
+Tabula Muris,cardiac muscle cell,Cross-Platform,0.25,SVM,0.9766
+Tabula Muris,cardiac muscle cell,Cross-Platform,0.25,scPathProto (Ours),0.9796
+Tabula Muris,basophil,Cross-Platform,0.11,SingleR,0.798
+Tabula Muris,basophil,Cross-Platform,0.11,CellTypist,0.9001
+Tabula Muris,basophil,Cross-Platform,0.11,scANVI,0.8556
+Tabula Muris,basophil,Cross-Platform,0.11,TOSICA,0.725
+Tabula Muris,basophil,Cross-Platform,0.11,SVM,0.8872
+Tabula Muris,basophil,Cross-Platform,0.11,scPathProto (Ours),0.9019
+Lung COVID-19,NK,Cross-Platform,1.64,SingleR,0.73
+Lung COVID-19,NK,Cross-Platform,1.64,CellTypist,0.8289
+Lung COVID-19,NK,Cross-Platform,1.64,scANVI,0.7478
+Lung COVID-19,NK,Cross-Platform,1.64,TOSICA,0.8618
+Lung COVID-19,NK,Cross-Platform,1.64,SVM,0.8436
+Lung COVID-19,NK,Cross-Platform,1.64,scPathProto (Ours),0.8787
+Lung COVID-19,pDC,Cross-Platform,0.23,SingleR,0.7389
+Lung COVID-19,pDC,Cross-Platform,0.23,CellTypist,0.8828
+Lung COVID-19,pDC,Cross-Platform,0.23,scANVI,0.6349
+Lung COVID-19,pDC,Cross-Platform,0.23,TOSICA,0.6957
+Lung COVID-19,pDC,Cross-Platform,0.23,SVM,0.7969
+Lung COVID-19,pDC,Cross-Platform,0.23,scPathProto (Ours),0.8507

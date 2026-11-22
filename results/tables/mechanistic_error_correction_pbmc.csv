@@ -1,0 +1,8 @@
+Protocol,Batch_Name,Chemistry_Type,N_Cells,Zero_Sparsity_Pct,HVG_Detection_Pct,HVG_Detection_Ratio_vs_Ref,Acc_scPathProto,Acc_SVM,Acc_Diff_pp,Rescued,Opposite,Net_Gain,Rescue_Ratio
+Smart-Seq2,Smart-Seq2 (pbmc1),Plate (Full-Length),253,89.27,13.26,3.1,89.33,74.31,15.02,44,6,38,7.33
+inDrop,inDrop (pbmc1),Droplet (Ultra-Sparse),3222,98.38,2.36,0.55,86.16,83.15,3.01,275,178,97,1.54
+Seq-Well,Seq-Well (pbmc1),Nanowell (Ultra-Sparse),3176,97.46,3.31,0.77,76.54,75.28,1.26,214,174,40,1.23
+10Xv2 (b2),10Xv2 (pbmc2),Droplet (Reference Match),3362,94.94,5.89,1.38,89.56,88.7,0.86,112,83,29,1.35
+10Xv3,10Xv3 (pbmc1),Droplet (High-Capture),3222,93.22,8.2,1.92,93.95,93.92,0.03,89,88,1,1.01
+Drop-Seq,Drop-Seq (pbmc1),Droplet (Sparse),3222,96.98,3.34,0.78,84.02,88.36,-4.35,133,273,-140,0.49
+CEL-Seq2,CEL-Seq2 (pbmc1),Plate (UMI),253,88.47,13.58,3.18,71.94,77.47,-5.53,9,23,-14,0.39

@@ -1,0 +1,21 @@
+Experiment,Metric,Value,Detail
+2A_PBMC,Deletion_AOPC_TopKO,0.1806,Mean Macro-F1 drop over K in {5..150}
+2A_PBMC,Deletion_AOPC_RandKO,0.0052,5-seed mean Macro-F1 drop over K in {5..150}
+2A_PBMC,Norm_AUC_Gap_RandMinusTop,0.2474,"Rand_AUC=0.9196, Top_AUC=0.6722"
+2A_PBMC,Vacuity_Wilcoxon_K40_vs_Base,0.0,"MeanTop=0.2373, MeanBase=0.1236, Fold=1.92x"
+2A_PBMC,Vacuity_Wilcoxon_K40_vs_Rand,0.0,"MeanTop=0.2373, MeanRand=0.1317"
+2A_PBMC,Vacuity_Wilcoxon_K150_vs_Base,0.0,"MeanTop=0.2948, MeanBase=0.1236, Fold=2.38x"
+2A_PBMC,Vacuity_Wilcoxon_K150_vs_Rand,0.0,"MeanTop=0.2948, MeanRand=0.1397"
+2C_PBMC_Swap,Vacuity_Peak_Fold,6.16,"Base(a=0)=0.0632, Peak(a=0.9)=0.3894, End(a=1.0)=0.3002, N_Swap_Genes=227 (7.57%)"
+2A_Pancreas,Deletion_AOPC_TopKO,0.0732,Mean Macro-F1 drop over K in {5..150}
+2A_Pancreas,Deletion_AOPC_RandKO,0.0008,5-seed mean Macro-F1 drop over K in {5..150}
+2A_Pancreas,Norm_AUC_Gap_RandMinusTop,0.0833,"Rand_AUC=0.9254, Top_AUC=0.8421"
+2A_Pancreas,Vacuity_Wilcoxon_K40_vs_Base,7.930517754499244e-190,"MeanTop=0.0713, MeanBase=0.0541, Fold=1.32x"
+2A_Pancreas,Vacuity_Wilcoxon_K40_vs_Rand,1.1367629028199652e-130,"MeanTop=0.0713, MeanRand=0.0548"
+2A_Pancreas,Vacuity_Wilcoxon_K150_vs_Base,1.47047860075696e-197,"MeanTop=0.0812, MeanBase=0.0541, Fold=1.50x"
+2A_Pancreas,Vacuity_Wilcoxon_K150_vs_Rand,1.146535729677168e-95,"MeanTop=0.0812, MeanRand=0.0579"
+4A_PBMC,SNR_Median_Fold_MPCA_vs_HVG,8.67,"Med_HVG=1.220, Med_MPCA=10.579, Med_Unsup=4.018, MWU_one=5.453e-73, MWU_two=1.091e-72"
+4A_PBMC,SNR_UnseenOnly_Fold_MPCA_vs_HVG,6.99,"Unseen_N=16710, Med_HVG=1.146, Med_MPCA=8.012, MWU_one=6.219e-63"
+4A_Pancreas,SNR_Median_Fold_MPCA_vs_HVG,1.5,"Med_HVG=6.401, Med_MPCA=9.627, Med_Unsup=5.976, MWU_one=5.336e-05, MWU_two=1.067e-04"
+4A_Pancreas,SNR_UnseenOnly_Fold_MPCA_vs_HVG,0.56,"Unseen_N=5660, Med_HVG=7.629, Med_MPCA=4.280, MWU_one=1.000e+00"
+4B_PBMC_7Protocols,Total_Rescued_vs_Opposite,51.0,"TotalRescued=876, TotalOpposite=825, SmartSeq2_Rescued=44_vs_6 (7.33:1, +15.02 pp)"

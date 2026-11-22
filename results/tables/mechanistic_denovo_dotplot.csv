@@ -1,0 +1,145 @@
+Cell_Type,Gene_Symbol,Lineage_Group,Regulon,In_300_GOBP,Mean_LogExpr,Pct_Expressing
+B cell,IL3RA,pDC,Regulon_1,False,0.0272,1.65
+CD14+ monocyte,IL3RA,pDC,Regulon_1,False,0.0137,0.9
+CD16+ monocyte,IL3RA,pDC,Regulon_1,False,0.0791,6.24
+CD4+ T cell,IL3RA,pDC,Regulon_1,False,0.0104,0.82
+Cytotoxic T cell,IL3RA,pDC,Regulon_1,False,0.0039,0.24
+Dendritic cell,IL3RA,pDC,Regulon_1,False,0.0985,9.47
+Megakaryocyte,IL3RA,pDC,Regulon_1,False,0.0,0.0
+Natural killer cell,IL3RA,pDC,Regulon_1,False,0.0038,0.19
+Plasmacytoid dendritic cell,IL3RA,pDC,Regulon_1,False,0.8178,48.48
+B cell,PTCRA,pDC,Regulon_4,False,0.0004,0.03
+CD14+ monocyte,PTCRA,pDC,Regulon_4,False,0.0039,0.21
+CD16+ monocyte,PTCRA,pDC,Regulon_4,False,0.0,0.0
+CD4+ T cell,PTCRA,pDC,Regulon_4,False,0.0041,0.22
+Cytotoxic T cell,PTCRA,pDC,Regulon_4,False,0.001,0.04
+Dendritic cell,PTCRA,pDC,Regulon_4,False,0.0282,2.11
+Megakaryocyte,PTCRA,pDC,Regulon_4,False,0.6007,16.35
+Natural killer cell,PTCRA,pDC,Regulon_4,False,0.0025,0.19
+Plasmacytoid dendritic cell,PTCRA,pDC,Regulon_4,False,0.5721,35.61
+B cell,LAMP5,pDC,Regulon_3,False,0.0011,0.06
+CD14+ monocyte,LAMP5,pDC,Regulon_3,False,0.0009,0.09
+CD16+ monocyte,LAMP5,pDC,Regulon_3,False,0.0,0.0
+CD4+ T cell,LAMP5,pDC,Regulon_3,False,0.0004,0.04
+Cytotoxic T cell,LAMP5,pDC,Regulon_3,False,0.0002,0.01
+Dendritic cell,LAMP5,pDC,Regulon_3,False,0.0419,4.56
+Megakaryocyte,LAMP5,pDC,Regulon_3,False,0.0197,0.64
+Natural killer cell,LAMP5,pDC,Regulon_3,False,0.0,0.0
+Plasmacytoid dendritic cell,LAMP5,pDC,Regulon_3,False,0.2881,18.18
+B cell,CCDC50,pDC,Regulon_5,False,0.3338,18.02
+CD14+ monocyte,CCDC50,pDC,Regulon_5,False,0.0888,5.39
+CD16+ monocyte,CCDC50,pDC,Regulon_5,False,0.0647,4.43
+CD4+ T cell,CCDC50,pDC,Regulon_5,False,0.0466,3.11
+Cytotoxic T cell,CCDC50,pDC,Regulon_5,False,0.0954,5.0
+Dendritic cell,CCDC50,pDC,Regulon_5,False,0.403,36.49
+Megakaryocyte,CCDC50,pDC,Regulon_5,False,0.0029,0.11
+Natural killer cell,CCDC50,pDC,Regulon_5,False,0.0691,4.53
+Plasmacytoid dendritic cell,CCDC50,pDC,Regulon_5,False,1.9429,81.82
+B cell,NKG7,NK / Cytotoxic,Regulon_7,False,0.2724,13.74
+CD14+ monocyte,NKG7,NK / Cytotoxic,Regulon_7,False,0.4173,19.42
+CD16+ monocyte,NKG7,NK / Cytotoxic,Regulon_7,False,0.9502,47.29
+CD4+ T cell,NKG7,NK / Cytotoxic,Regulon_7,False,0.7725,31.8
+Cytotoxic T cell,NKG7,NK / Cytotoxic,Regulon_7,False,3.0609,84.64
+Dendritic cell,NKG7,NK / Cytotoxic,Regulon_7,False,0.4606,39.3
+Megakaryocyte,NKG7,NK / Cytotoxic,Regulon_7,False,0.2751,7.69
+Natural killer cell,NKG7,NK / Cytotoxic,Regulon_7,False,4.0042,99.42
+Plasmacytoid dendritic cell,NKG7,NK / Cytotoxic,Regulon_7,False,0.4096,26.52
+B cell,FGFBP2,NK / Cytotoxic,Regulon_7,False,0.0555,3.17
+CD14+ monocyte,FGFBP2,NK / Cytotoxic,Regulon_7,False,0.0628,2.88
+CD16+ monocyte,FGFBP2,NK / Cytotoxic,Regulon_7,False,0.0631,3.94
+CD4+ T cell,FGFBP2,NK / Cytotoxic,Regulon_7,False,0.0958,5.37
+Cytotoxic T cell,FGFBP2,NK / Cytotoxic,Regulon_7,False,1.2345,48.65
+Dendritic cell,FGFBP2,NK / Cytotoxic,Regulon_7,False,0.0568,5.61
+Megakaryocyte,FGFBP2,NK / Cytotoxic,Regulon_7,False,0.0453,1.5
+Natural killer cell,FGFBP2,NK / Cytotoxic,Regulon_7,False,2.1701,79.36
+Plasmacytoid dendritic cell,FGFBP2,NK / Cytotoxic,Regulon_7,False,0.0685,4.55
+B cell,KLRF1,NK / Cytotoxic,Regulon_2,False,0.0155,0.89
+CD14+ monocyte,KLRF1,NK / Cytotoxic,Regulon_2,False,0.0148,0.76
+CD16+ monocyte,KLRF1,NK / Cytotoxic,Regulon_2,False,0.0222,1.81
+CD4+ T cell,KLRF1,NK / Cytotoxic,Regulon_2,False,0.0293,1.87
+Cytotoxic T cell,KLRF1,NK / Cytotoxic,Regulon_2,False,0.1668,8.34
+Dendritic cell,KLRF1,NK / Cytotoxic,Regulon_2,False,0.0296,2.81
+Megakaryocyte,KLRF1,NK / Cytotoxic,Regulon_2,False,0.0077,0.21
+Natural killer cell,KLRF1,NK / Cytotoxic,Regulon_2,False,1.412,65.77
+Plasmacytoid dendritic cell,KLRF1,NK / Cytotoxic,Regulon_2,False,0.0257,1.52
+B cell,GZMH,NK / Cytotoxic,Regulon_2,False,0.0711,4.05
+CD14+ monocyte,GZMH,NK / Cytotoxic,Regulon_2,False,0.0811,3.64
+CD16+ monocyte,GZMH,NK / Cytotoxic,Regulon_2,False,0.0866,5.09
+CD4+ T cell,GZMH,NK / Cytotoxic,Regulon_2,False,0.1391,7.28
+Cytotoxic T cell,GZMH,NK / Cytotoxic,Regulon_2,False,1.5304,57.57
+Dendritic cell,GZMH,NK / Cytotoxic,Regulon_2,False,0.0848,7.72
+Megakaryocyte,GZMH,NK / Cytotoxic,Regulon_2,False,0.0704,1.82
+Natural killer cell,GZMH,NK / Cytotoxic,Regulon_2,False,1.7816,71.26
+Plasmacytoid dendritic cell,GZMH,NK / Cytotoxic,Regulon_2,False,0.1168,8.33
+B cell,TUBB1,Megakaryocyte,Regulon_1,False,0.0128,0.6
+CD14+ monocyte,TUBB1,Megakaryocyte,Regulon_1,False,0.0347,1.61
+CD16+ monocyte,TUBB1,Megakaryocyte,Regulon_1,False,0.0216,1.31
+CD4+ T cell,TUBB1,Megakaryocyte,Regulon_1,False,0.0126,0.69
+Cytotoxic T cell,TUBB1,Megakaryocyte,Regulon_1,False,0.0157,0.82
+Dendritic cell,TUBB1,Megakaryocyte,Regulon_1,False,0.0251,1.75
+Megakaryocyte,TUBB1,Megakaryocyte,Regulon_1,False,2.5482,58.01
+Natural killer cell,TUBB1,Megakaryocyte,Regulon_1,False,0.008,0.39
+Plasmacytoid dendritic cell,TUBB1,Megakaryocyte,Regulon_1,False,0.0376,2.27
+B cell,SDPR,Megakaryocyte,Regulon_3,False,0.0117,0.54
+CD14+ monocyte,SDPR,Megakaryocyte,Regulon_3,False,0.0362,1.7
+CD16+ monocyte,SDPR,Megakaryocyte,Regulon_3,False,0.0365,2.3
+CD4+ T cell,SDPR,Megakaryocyte,Regulon_3,False,0.0132,0.64
+Cytotoxic T cell,SDPR,Megakaryocyte,Regulon_3,False,0.0134,0.69
+Dendritic cell,SDPR,Megakaryocyte,Regulon_3,False,0.066,5.61
+Megakaryocyte,SDPR,Megakaryocyte,Regulon_3,False,3.1739,70.51
+Natural killer cell,SDPR,Megakaryocyte,Regulon_3,False,0.0206,1.25
+Plasmacytoid dendritic cell,SDPR,Megakaryocyte,Regulon_3,False,0.0333,3.03
+B cell,GNG11,Megakaryocyte,Regulon_8,False,0.0243,1.33
+CD14+ monocyte,GNG11,Megakaryocyte,Regulon_8,False,0.0353,1.75
+CD16+ monocyte,GNG11,Megakaryocyte,Regulon_8,False,0.0526,3.12
+CD4+ T cell,GNG11,Megakaryocyte,Regulon_8,False,0.0172,0.88
+Cytotoxic T cell,GNG11,Megakaryocyte,Regulon_8,False,0.0168,0.85
+Dendritic cell,GNG11,Megakaryocyte,Regulon_8,False,0.0538,5.61
+Megakaryocyte,GNG11,Megakaryocyte,Regulon_8,False,2.8416,63.78
+Natural killer cell,GNG11,Megakaryocyte,Regulon_8,False,0.0163,0.87
+Plasmacytoid dendritic cell,GNG11,Megakaryocyte,Regulon_8,False,0.0487,3.79
+B cell,RGS18,Megakaryocyte,Regulon_7,False,0.0107,0.57
+CD14+ monocyte,RGS18,Megakaryocyte,Regulon_7,False,0.1325,8.03
+CD16+ monocyte,RGS18,Megakaryocyte,Regulon_7,False,0.1432,10.84
+CD4+ T cell,RGS18,Megakaryocyte,Regulon_7,False,0.0145,0.73
+Cytotoxic T cell,RGS18,Megakaryocyte,Regulon_7,False,0.0086,0.43
+Dendritic cell,RGS18,Megakaryocyte,Regulon_7,False,0.2626,26.32
+Megakaryocyte,RGS18,Megakaryocyte,Regulon_7,False,1.7777,41.77
+Natural killer cell,RGS18,Megakaryocyte,Regulon_7,False,0.0123,0.58
+Plasmacytoid dendritic cell,RGS18,Megakaryocyte,Regulon_7,False,0.1106,8.33
+B cell,MS4A7,Myeloid / Mono,Regulon_5,False,0.0558,3.45
+CD14+ monocyte,MS4A7,Myeloid / Mono,Regulon_5,False,0.3122,16.73
+CD16+ monocyte,MS4A7,Myeloid / Mono,Regulon_5,False,1.485,66.5
+CD4+ T cell,MS4A7,Myeloid / Mono,Regulon_5,False,0.0184,1.18
+Cytotoxic T cell,MS4A7,Myeloid / Mono,Regulon_5,False,0.0144,0.94
+Dendritic cell,MS4A7,Myeloid / Mono,Regulon_5,False,0.3386,30.18
+Megakaryocyte,MS4A7,Myeloid / Mono,Regulon_5,False,0.0091,0.32
+Natural killer cell,MS4A7,Myeloid / Mono,Regulon_5,False,0.005,0.39
+Plasmacytoid dendritic cell,MS4A7,Myeloid / Mono,Regulon_5,False,0.0215,2.27
+B cell,MS4A6A,Myeloid / Mono,Regulon_8,False,0.0261,1.46
+CD14+ monocyte,MS4A6A,Myeloid / Mono,Regulon_8,False,0.7475,35.13
+CD16+ monocyte,MS4A6A,Myeloid / Mono,Regulon_8,False,0.0932,7.39
+CD4+ T cell,MS4A6A,Myeloid / Mono,Regulon_8,False,0.0162,1.01
+Cytotoxic T cell,MS4A6A,Myeloid / Mono,Regulon_8,False,0.013,0.69
+Dendritic cell,MS4A6A,Myeloid / Mono,Regulon_8,False,0.8018,43.16
+Megakaryocyte,MS4A6A,Myeloid / Mono,Regulon_8,False,0.0074,0.21
+Natural killer cell,MS4A6A,Myeloid / Mono,Regulon_8,False,0.0148,0.87
+Plasmacytoid dendritic cell,MS4A6A,Myeloid / Mono,Regulon_8,False,0.6571,34.85
+B cell,LGALS2,Myeloid / Mono,Regulon_8,False,0.0094,0.63
+CD14+ monocyte,LGALS2,Myeloid / Mono,Regulon_8,False,0.6438,30.12
+CD16+ monocyte,LGALS2,Myeloid / Mono,Regulon_8,False,0.0671,4.27
+CD4+ T cell,LGALS2,Myeloid / Mono,Regulon_8,False,0.0116,0.67
+Cytotoxic T cell,LGALS2,Myeloid / Mono,Regulon_8,False,0.0102,0.53
+Dendritic cell,LGALS2,Myeloid / Mono,Regulon_8,False,1.2392,70.18
+Megakaryocyte,LGALS2,Myeloid / Mono,Regulon_8,False,0.0099,0.32
+Natural killer cell,LGALS2,Myeloid / Mono,Regulon_8,False,0.0069,0.39
+Plasmacytoid dendritic cell,LGALS2,Myeloid / Mono,Regulon_8,False,0.0074,0.76
+B cell,CLEC12A,Myeloid / Mono,Regulon_4,False,0.0033,0.16
+CD14+ monocyte,CLEC12A,Myeloid / Mono,Regulon_4,False,0.4535,24.05
+CD16+ monocyte,CLEC12A,Myeloid / Mono,Regulon_4,False,0.7355,43.19
+CD4+ T cell,CLEC12A,Myeloid / Mono,Regulon_4,False,0.0061,0.34
+Cytotoxic T cell,CLEC12A,Myeloid / Mono,Regulon_4,False,0.0079,0.46
+Dendritic cell,CLEC12A,Myeloid / Mono,Regulon_4,False,0.4424,37.89
+Megakaryocyte,CLEC12A,Myeloid / Mono,Regulon_4,False,0.0245,0.75
+Natural killer cell,CLEC12A,Myeloid / Mono,Regulon_4,False,0.0153,0.87
+Plasmacytoid dendritic cell,CLEC12A,Myeloid / Mono,Regulon_4,False,0.0447,3.79

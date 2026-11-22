@@ -1,0 +1,31 @@
+Prevalence_Tier,Tier_Order,Method,F1_Mean,F1_SEM,F1_Std
+Ultra-Rare (<0.5%),1,CellTypist,0.7278,0.0233,0.0233
+Ultra-Rare (<0.5%),1,SVM,0.7572,0.0228,0.0228
+Ultra-Rare (<0.5%),1,SingleR,0.7458,0.0497,0.0497
+Ultra-Rare (<0.5%),1,TOSICA,0.7051,0.0131,0.0131
+Ultra-Rare (<0.5%),1,scANVI,0.7364,0.0751,0.0751
+Ultra-Rare (<0.5%),1,scPathProto (Ours),0.7702,0.0573,0.0573
+Rare (0.5-1.5%),2,CellTypist,0.6944,0.0579,0.0579
+Rare (0.5-1.5%),2,SVM,0.7023,0.0756,0.0756
+Rare (0.5-1.5%),2,SingleR,0.4861,0.1941,0.1941
+Rare (0.5-1.5%),2,TOSICA,0.6626,0.0304,0.0304
+Rare (0.5-1.5%),2,scANVI,0.6023,0.0653,0.0653
+Rare (0.5-1.5%),2,scPathProto (Ours),0.7082,0.0821,0.0821
+Low-Rare (1.5-2.5%),3,CellTypist,0.7441,0.1402,0.1402
+Low-Rare (1.5-2.5%),3,SVM,0.7465,0.1113,0.1113
+Low-Rare (1.5-2.5%),3,SingleR,0.8067,0.0893,0.0893
+Low-Rare (1.5-2.5%),3,TOSICA,0.7325,0.1394,0.1394
+Low-Rare (1.5-2.5%),3,scANVI,0.8021,0.0783,0.0783
+Low-Rare (1.5-2.5%),3,scPathProto (Ours),0.7663,0.1134,0.1134
+Moderate (2.5-10%),4,CellTypist,0.8895,0.0325,0.0325
+Moderate (2.5-10%),4,SVM,0.907,0.0175,0.0175
+Moderate (2.5-10%),4,SingleR,0.8836,0.0421,0.0421
+Moderate (2.5-10%),4,TOSICA,0.8908,0.0374,0.0374
+Moderate (2.5-10%),4,scANVI,0.879,0.0492,0.0492
+Moderate (2.5-10%),4,scPathProto (Ours),0.9015,0.025,0.025
+Abundant (>10%),5,CellTypist,0.899,0.0268,0.0268
+Abundant (>10%),5,SVM,0.9121,0.0231,0.0231
+Abundant (>10%),5,SingleR,0.8515,0.0469,0.0469
+Abundant (>10%),5,TOSICA,0.8826,0.0368,0.0368
+Abundant (>10%),5,scANVI,0.901,0.0315,0.0315
+Abundant (>10%),5,scPathProto (Ours),0.9167,0.0242,0.0242

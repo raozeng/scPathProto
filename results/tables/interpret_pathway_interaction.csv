@@ -1,0 +1,13 @@
+Pathway,B Cell Receptor Signaling Pathway,Pos. Reg. B Cell Activation,Pos. Reg. Inflammatory Response,Response to Alcohol,Cell Cycle Arrest,Neg. Reg. Protein Serine Threonin.,DNA Recombination,Glucose Metabolic Process,Response to Interleukin 1,Pos. Reg. Intracellular Protein T.,Reg. Lymphocyte Mediated Immunity,Antigen Presentation
+B Cell Receptor Signaling Pathway,1.0,0.924,0.05,0.005,0.041,0.117,0.108,0.05,-0.019,-0.048,0.441,0.461
+Pos. Reg. B Cell Activation,0.924,1.0,0.128,0.09,0.085,0.151,0.151,0.091,0.056,-0.008,0.505,0.528
+Pos. Reg. Inflammatory Response,0.05,0.128,1.0,0.759,0.454,0.593,0.003,0.309,0.569,0.24,0.395,0.622
+Response to Alcohol,0.005,0.09,0.759,1.0,0.454,0.6,0.02,0.349,0.462,0.304,0.376,0.584
+Cell Cycle Arrest,0.041,0.085,0.454,0.454,1.0,0.738,0.045,0.253,0.308,0.386,0.246,0.416
+Neg. Reg. Protein Serine Threonin.,0.117,0.151,0.593,0.6,0.738,1.0,0.022,0.304,0.386,0.332,0.337,0.539
+DNA Recombination,0.108,0.151,0.003,0.02,0.045,0.022,1.0,0.141,0.02,0.033,0.164,0.044
+Glucose Metabolic Process,0.05,0.091,0.309,0.349,0.253,0.304,0.141,1.0,0.273,0.283,0.278,0.33
+Response to Interleukin 1,-0.019,0.056,0.569,0.462,0.308,0.386,0.02,0.273,1.0,0.374,0.318,0.332
+Pos. Reg. Intracellular Protein T.,-0.048,-0.008,0.24,0.304,0.386,0.332,0.033,0.283,0.374,1.0,0.236,0.239
+Reg. Lymphocyte Mediated Immunity,0.441,0.505,0.395,0.376,0.246,0.337,0.164,0.278,0.318,0.236,1.0,0.751
+Antigen Presentation,0.461,0.528,0.622,0.584,0.416,0.539,0.044,0.33,0.332,0.239,0.751,1.0

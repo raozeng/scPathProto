@@ -1,0 +1,6 @@
+Experiment,Metric,Value,Detail
+1B_COVID_Severity,Macrophage_Novelty_Fold_Severe_vs_Healthy,1.87,"H=0.0690, M=0.0770, S=0.1292, MWU_p=0.000e+00, Donor_rho=0.756 (p=2.816e-03)"
+1B_COVID_Severity,Macrophage_MaxCos_Drop_Severe_vs_Healthy,-0.1487,"H=0.7317, M=0.7029, S=0.5830, MWU_p=0.000e+00, Donor_rho=-0.868 (p=1.186e-04)"
+1B_COVID_Severity,Macrophage_Vacuity_Severe_vs_Healthy,1.27,"Mean H=0.0735, M=0.0692, S=0.0935 | Med H=0.0617, S=0.0774, MWU_p=0.000e+00"
+1D_COVID_Substate,FCN1_vs_FABP4_Median_Vacuity_Gain_Pct,34.02,"FCN1+ n=14255 MedVac=0.0791 MeanNov=0.1289 MeanCos=0.5755 | FABP4+ n=647 MedVac=0.0590 MeanNov=0.1149 MeanCos=0.6043 | MWU_Vac_p=0.000e+00, MWU_Nov_p=0.000e+00, MWU_Cos_p=9.226e-11"
+3C_PBMC_DeNovo_Conservation,Mean_CrossProtocol_Spearman_Rho,0.884,"MeanPearsonR=0.8634, MaxP=1.401e-13, MinRho=0.8000, MaxRho=0.9674"

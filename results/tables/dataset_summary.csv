@@ -1,0 +1,5 @@
+Dataset,Cohort,Cells,Raw_Genes,HVGs,Cell_Types,Batches,Zero_Sparsity_Pct,Rare_Types_Count
+Pancreas,"Human Pancreas Islet Multi-Protocol (GSE84133, GSE85241, E-MTAB-5061, GSE81608)",14229,15582,3000,14,4,79.87,7
+PBMC,"Human PBMC Multi-Chemistry (PbmcBench / SCP424, 7 protocols)",23154,22280,3000,9,8,96.04,2
+Tabula Muris,"Mouse 12-Organ Cross-Platform (GSE109774, 10x Droplet & Smart-seq2 FACS)",78241,23341,3000,74,2,90.34,64
+Lung COVID-19,Human BALF COVID-19 Perturbation (GSE145926; GSM3660650/GSE128033),65813,33538,3000,10,13,94.47,7

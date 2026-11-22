@@ -1,0 +1,10 @@
+Cell_Type,B Cell Receptor Signaling Pathway,Pos. Reg. B Cell Activation,Pos. Reg. Inflammatory Response,Response to Alcohol,Cell Cycle Arrest,Neg. Reg. Protein Serine Threonin.,DNA Recombination,Glucose Metabolic Process,Response to Interleukin 1,Pos. Reg. Intracellular Protein T.,Reg. Lymphocyte Mediated Immunity,Antigen Presentation,Platelet Degranulation,Platelet Activation,Mitochondrial Transport,Pos. Reg. Intracellular Transport,Regulation of Cell Size,Telencephalon Development
+B cell,2.137,2.041,-0.315,-0.366,-0.22,-0.098,0.158,-0.176,-0.368,-0.479,0.71,0.709,-0.347,-0.198,-0.365,-0.501,-0.153,-0.122
+CD14+ monocyte,-0.159,-0.018,1.518,1.328,0.634,0.845,-0.31,0.273,0.601,0.09,0.394,0.892,0.324,0.233,0.064,0.055,0.162,0.16
+CD16+ monocyte,0.073,-0.038,0.866,0.689,2.983,2.69,-0.073,0.549,0.22,1.073,0.365,1.314,0.896,0.659,0.248,1.015,0.205,0.402
+CD4+ T cell,-0.458,-0.498,-0.41,-0.433,-0.299,-0.407,0.522,-0.055,-0.514,-0.476,-0.511,-0.62,-0.376,-0.368,-0.429,-0.447,-0.115,-0.177
+Cytotoxic T cell,-0.414,-0.43,-0.469,-0.505,-0.292,-0.407,-0.228,-0.182,0.019,0.138,-0.285,-0.506,-0.299,-0.303,0.124,0.119,-0.161,-0.204
+Dendritic cell,0.171,0.559,0.893,1.369,0.499,0.833,-0.072,1.085,0.448,0.535,3.167,3.185,0.371,0.553,0.68,0.572,1.248,0.782
+Megakaryocyte,-0.527,-0.609,-0.307,0.74,-0.124,0.261,-0.001,0.206,0.225,0.701,-0.668,-0.455,3.564,3.447,0.592,0.912,0.188,0.936
+Natural killer cell,-0.195,-0.191,-0.296,0.074,-0.105,-0.247,-0.219,0.186,0.654,1.025,0.286,-0.379,-0.088,0.007,1.155,1.04,-0.122,-0.217
+Plasmacytoid dendritic cell,0.362,0.837,0.406,0.158,0.297,0.467,0.026,0.101,0.537,0.911,1.062,1.232,0.398,0.432,1.23,1.028,8.151,7.939

@@ -1,0 +1,11 @@
+cell_type,10Xv2 (pbmc1),10Xv2 (pbmc2),10Xv3 (pbmc1),CEL-Seq2 (pbmc1),Drop-Seq (pbmc1),Seq-Well (pbmc1),Smart-Seq2 (pbmc1),inDrop (pbmc1),Total
+B cell,676,862,346,14,477,387,22,374,3158
+CD14+ monocyte,1019,436,354,20,232,1132,34,1006,4233
+CD16+ monocyte,175,50,98,21,149,0,8,108,609
+CD4+ T cell,1458,963,960,67,889,435,58,512,5342
+Cytotoxic T cell,2128,694,962,103,1189,1121,117,1108,7422
+Dendritic cell,88,76,38,0,46,37,0,0,285
+Megakaryocyte,433,32,270,18,27,38,14,104,936
+Natural killer cell,429,219,194,10,185,0,0,0,1037
+Plasmacytoid dendritic cell,38,30,0,0,28,26,0,10,132
+Total,6444,3362,3222,253,3222,3176,253,3222,23154

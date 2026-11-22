@@ -1,0 +1,16 @@
+cell_type,Baron (inDrop),Muraro (CEL-Seq2),Segerstolpe (Smart-Seq2),Xin (SMARTer),Total
+MHC class II,0,0,5,0,5
+PP (gamma),255,101,195,82,633
+T cell,7,0,0,0,7
+acinar,958,219,182,0,1359
+alpha,2326,812,872,855,4865
+beta,2525,448,263,466,3702
+delta,601,193,110,46,950
+ductal,1077,245,381,0,1703
+endothelial,252,21,15,0,288
+epsilon,18,3,7,0,28
+macrophage,55,0,0,0,55
+mast,25,0,5,0,30
+schwann,13,0,0,0,13
+stellate,457,80,54,0,591
+Total,8569,2122,2089,1449,14229

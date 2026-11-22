@@ -1,0 +1,76 @@
+cell_type,Droplet (10x),FACS (Smart-seq2),Total
+B cell,8294,1510,9804
+DN1 thymic pro-T cell,44,32,76
+Fraction A pre-pro B cell,66,0,66
+Kupffer cell,0,61,61
+Langerhans cell,38,0,38
+Slamf1-negative multipotent progenitor cell,0,713,713
+Slamf1-positive multipotent progenitor cell,0,134,134
+T cell,4409,440,4849
+alveolar macrophage,345,0,345
+basal cell,392,1340,1732
+basal cell of epidermis,4424,1086,5510
+basophil,61,25,86
+bladder cell,1203,695,1898
+bladder urothelial cell,1167,683,1850
+blood cell,1139,206,1345
+cardiac muscle cell,60,133,193
+ciliated columnar cell of tracheobronchial tree,49,25,74
+classical monocyte,161,90,251
+common lymphoid progenitor,0,156,156
+dendritic cell,42,0,42
+duct epithelial cell,27,0,27
+early pro-B cell,65,0,65
+endocardial cell,63,165,228
+endothelial cell,2843,1792,4635
+endothelial cell of hepatic sinusoid,28,182,210
+epithelial cell,871,201,1072
+epithelial cell of lung,0,113,113
+epithelial cell of proximal tubule,0,219,219
+erythroblast,155,0,155
+erythrocyte,0,91,91
+fibroblast,226,2189,2415
+granulocyte,725,761,1486
+granulocyte monocyte progenitor cell,0,134,134
+granulocytopoietic cell,378,221,599
+hematopoietic precursor cell,392,265,657
+hepatocyte,1764,391,2155
+immature B cell,113,344,457
+immature NK T cell,0,37,37
+immature T cell,1354,1337,2691
+immature natural killer cell,0,36,36
+keratinocyte,3076,330,3406
+kidney capillary endothelial cell,392,0,392
+kidney cell,45,0,45
+kidney collecting duct epithelial cell,443,121,564
+kidney loop of Henle ascending limb epithelial cell,471,0,471
+kidney proximal straight tubule epithelial cell,1198,0,1198
+late pro-B cell,265,306,571
+leukocyte,324,614,938
+luminal epithelial cell of mammary gland,459,578,1037
+lung endothelial cell,462,693,1155
+macrophage,1320,303,1623
+mast cell,24,0,24
+mature natural killer cell,0,49,49
+megakaryocyte-erythroid progenitor cell,0,55,55
+mesangial cell,51,0,51
+mesenchymal cell,7848,830,8678
+mesenchymal stem cell,1136,258,1394
+monocyte,525,331,856
+myeloid cell,87,85,172
+myofibroblast cell,0,178,178
+naive B cell,0,692,692
+natural killer cell,1054,76,1130
+neuroendocrine cell,362,0,362
+non-classical monocyte,220,0,220
+pre-natural killer cell,0,22,22
+precursor B cell,0,517,517
+proerythroblast,265,0,265
+professional antigen presenting cell,0,59,59
+promonocyte,257,0,257
+regulatory T cell,0,27,27
+skeletal muscle satellite cell,354,540,894
+smooth muscle cell,0,42,42
+stromal cell,3240,863,4103
+type II pneumocyte,89,0,89
+Total,54865,23376,78241

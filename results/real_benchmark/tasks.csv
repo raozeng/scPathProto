@@ -1,0 +1,127 @@
+task_id,dataset,setting,label_key,n_train,n_val,n_test,train_batches,test_batches,heldout_types,fold
+pancreas|intra|Baron_inDrop|fold0,pancreas,intra,cell_type_original,5821,1028,1713,Baron (inDrop),Baron (inDrop),,0.0
+pancreas|intra|Baron_inDrop|fold1,pancreas,intra,cell_type_original,5821,1028,1713,Baron (inDrop),Baron (inDrop),,1.0
+pancreas|intra|Baron_inDrop|fold2,pancreas,intra,cell_type_original,5822,1028,1712,Baron (inDrop),Baron (inDrop),,2.0
+pancreas|intra|Baron_inDrop|fold3,pancreas,intra,cell_type_original,5822,1028,1712,Baron (inDrop),Baron (inDrop),,3.0
+pancreas|intra|Baron_inDrop|fold4,pancreas,intra,cell_type_original,5822,1028,1712,Baron (inDrop),Baron (inDrop),,4.0
+pancreas|intra|Muraro_CEL-Seq2|fold0,pancreas,intra,cell_type_original,1440,255,424,Muraro (CEL-Seq2),Muraro (CEL-Seq2),,0.0
+pancreas|intra|Muraro_CEL-Seq2|fold1,pancreas,intra,cell_type_original,1440,255,424,Muraro (CEL-Seq2),Muraro (CEL-Seq2),,1.0
+pancreas|intra|Muraro_CEL-Seq2|fold2,pancreas,intra,cell_type_original,1440,255,424,Muraro (CEL-Seq2),Muraro (CEL-Seq2),,2.0
+pancreas|intra|Muraro_CEL-Seq2|fold3,pancreas,intra,cell_type_original,1440,255,424,Muraro (CEL-Seq2),Muraro (CEL-Seq2),,3.0
+pancreas|intra|Muraro_CEL-Seq2|fold4,pancreas,intra,cell_type_original,1441,255,423,Muraro (CEL-Seq2),Muraro (CEL-Seq2),,4.0
+pancreas|intra|Segerstolpe_Smart-Seq2|fold0,pancreas,intra,cell_type_original,1408,249,415,Segerstolpe (Smart-Seq2),Segerstolpe (Smart-Seq2),,0.0
+pancreas|intra|Segerstolpe_Smart-Seq2|fold1,pancreas,intra,cell_type_original,1408,249,415,Segerstolpe (Smart-Seq2),Segerstolpe (Smart-Seq2),,1.0
+pancreas|intra|Segerstolpe_Smart-Seq2|fold2,pancreas,intra,cell_type_original,1409,249,414,Segerstolpe (Smart-Seq2),Segerstolpe (Smart-Seq2),,2.0
+pancreas|intra|Segerstolpe_Smart-Seq2|fold3,pancreas,intra,cell_type_original,1409,249,414,Segerstolpe (Smart-Seq2),Segerstolpe (Smart-Seq2),,3.0
+pancreas|intra|Segerstolpe_Smart-Seq2|fold4,pancreas,intra,cell_type_original,1409,249,414,Segerstolpe (Smart-Seq2),Segerstolpe (Smart-Seq2),,4.0
+pancreas|intra|Xin_SMARTer|fold0,pancreas,intra,cell_type_original,985,174,290,Xin (SMARTer),Xin (SMARTer),,0.0
+pancreas|intra|Xin_SMARTer|fold1,pancreas,intra,cell_type_original,985,174,290,Xin (SMARTer),Xin (SMARTer),,1.0
+pancreas|intra|Xin_SMARTer|fold2,pancreas,intra,cell_type_original,985,174,290,Xin (SMARTer),Xin (SMARTer),,2.0
+pancreas|intra|Xin_SMARTer|fold3,pancreas,intra,cell_type_original,985,174,290,Xin (SMARTer),Xin (SMARTer),,3.0
+pancreas|intra|Xin_SMARTer|fold4,pancreas,intra,cell_type_original,986,174,289,Xin (SMARTer),Xin (SMARTer),,4.0
+pancreas|cross|test=Baron (inDrop),pancreas,cross,cell_type,4811,849,8569,Muraro (CEL-Seq2);Segerstolpe (Smart-Seq2);Xin (SMARTer),Baron (inDrop),,
+pancreas|cross|test=Muraro (CEL-Seq2),pancreas,cross,cell_type,10290,1817,2122,Baron (inDrop);Segerstolpe (Smart-Seq2);Xin (SMARTer),Muraro (CEL-Seq2),,
+pancreas|cross|test=Segerstolpe (Smart-Seq2),pancreas,cross,cell_type,10319,1821,2089,Baron (inDrop);Muraro (CEL-Seq2);Xin (SMARTer),Segerstolpe (Smart-Seq2),,
+pancreas|cross|test=Xin (SMARTer),pancreas,cross,cell_type,10863,1917,1449,Baron (inDrop);Muraro (CEL-Seq2);Segerstolpe (Smart-Seq2),Xin (SMARTer),,
+pancreas|openset|heldout=PP (gamma),pancreas,openset,cell_type,7066,1248,5655,Baron (inDrop),Muraro (CEL-Seq2);Segerstolpe (Smart-Seq2);Xin (SMARTer),PP (gamma),
+pancreas|openset|heldout=acinar,pancreas,openset,cell_type,6469,1142,5655,Baron (inDrop),Muraro (CEL-Seq2);Segerstolpe (Smart-Seq2);Xin (SMARTer),acinar,
+pancreas|openset|heldout=alpha,pancreas,openset,cell_type,5306,937,5655,Baron (inDrop),Muraro (CEL-Seq2);Segerstolpe (Smart-Seq2);Xin (SMARTer),alpha,
+pancreas|openset|heldout=beta,pancreas,openset,cell_type,5137,907,5655,Baron (inDrop),Muraro (CEL-Seq2);Segerstolpe (Smart-Seq2);Xin (SMARTer),beta,
+pancreas|openset|heldout=delta,pancreas,openset,cell_type,6772,1196,5655,Baron (inDrop),Muraro (CEL-Seq2);Segerstolpe (Smart-Seq2);Xin (SMARTer),delta,
+pancreas|openset|heldout=ductal,pancreas,openset,cell_type,6368,1124,5655,Baron (inDrop),Muraro (CEL-Seq2);Segerstolpe (Smart-Seq2);Xin (SMARTer),ductal,
+pancreas|openset|heldout=endothelial,pancreas,openset,cell_type,7069,1248,5655,Baron (inDrop),Muraro (CEL-Seq2);Segerstolpe (Smart-Seq2);Xin (SMARTer),endothelial,
+pancreas|openset|heldout=stellate,pancreas,openset,cell_type,6895,1217,5655,Baron (inDrop),Muraro (CEL-Seq2);Segerstolpe (Smart-Seq2);Xin (SMARTer),stellate,
+pbmc|intra|10Xv2_pbmc1|fold0,pbmc,intra,cell_type_original,4381,774,1289,10Xv2 (pbmc1),10Xv2 (pbmc1),,0.0
+pbmc|intra|10Xv2_pbmc1|fold1,pbmc,intra,cell_type_original,4381,774,1289,10Xv2 (pbmc1),10Xv2 (pbmc1),,1.0
+pbmc|intra|10Xv2_pbmc1|fold2,pbmc,intra,cell_type_original,4381,774,1289,10Xv2 (pbmc1),10Xv2 (pbmc1),,2.0
+pbmc|intra|10Xv2_pbmc1|fold3,pbmc,intra,cell_type_original,4381,774,1289,10Xv2 (pbmc1),10Xv2 (pbmc1),,3.0
+pbmc|intra|10Xv2_pbmc1|fold4,pbmc,intra,cell_type_original,4382,774,1288,10Xv2 (pbmc1),10Xv2 (pbmc1),,4.0
+pbmc|intra|10Xv2_pbmc2|fold0,pbmc,intra,cell_type_original,2285,404,673,10Xv2 (pbmc2),10Xv2 (pbmc2),,0.0
+pbmc|intra|10Xv2_pbmc2|fold1,pbmc,intra,cell_type_original,2285,404,673,10Xv2 (pbmc2),10Xv2 (pbmc2),,1.0
+pbmc|intra|10Xv2_pbmc2|fold2,pbmc,intra,cell_type_original,2286,404,672,10Xv2 (pbmc2),10Xv2 (pbmc2),,2.0
+pbmc|intra|10Xv2_pbmc2|fold3,pbmc,intra,cell_type_original,2286,404,672,10Xv2 (pbmc2),10Xv2 (pbmc2),,3.0
+pbmc|intra|10Xv2_pbmc2|fold4,pbmc,intra,cell_type_original,2286,404,672,10Xv2 (pbmc2),10Xv2 (pbmc2),,4.0
+pbmc|intra|10Xv3_pbmc1|fold0,pbmc,intra,cell_type_original,2190,387,645,10Xv3 (pbmc1),10Xv3 (pbmc1),,0.0
+pbmc|intra|10Xv3_pbmc1|fold1,pbmc,intra,cell_type_original,2190,387,645,10Xv3 (pbmc1),10Xv3 (pbmc1),,1.0
+pbmc|intra|10Xv3_pbmc1|fold2,pbmc,intra,cell_type_original,2191,387,644,10Xv3 (pbmc1),10Xv3 (pbmc1),,2.0
+pbmc|intra|10Xv3_pbmc1|fold3,pbmc,intra,cell_type_original,2191,387,644,10Xv3 (pbmc1),10Xv3 (pbmc1),,3.0
+pbmc|intra|10Xv3_pbmc1|fold4,pbmc,intra,cell_type_original,2191,387,644,10Xv3 (pbmc1),10Xv3 (pbmc1),,4.0
+pbmc|intra|CEL-Seq2_pbmc1|fold0,pbmc,intra,cell_type_original,171,31,51,CEL-Seq2 (pbmc1),CEL-Seq2 (pbmc1),,0.0
+pbmc|intra|CEL-Seq2_pbmc1|fold1,pbmc,intra,cell_type_original,171,31,51,CEL-Seq2 (pbmc1),CEL-Seq2 (pbmc1),,1.0
+pbmc|intra|CEL-Seq2_pbmc1|fold2,pbmc,intra,cell_type_original,171,31,51,CEL-Seq2 (pbmc1),CEL-Seq2 (pbmc1),,2.0
+pbmc|intra|CEL-Seq2_pbmc1|fold3,pbmc,intra,cell_type_original,172,31,50,CEL-Seq2 (pbmc1),CEL-Seq2 (pbmc1),,3.0
+pbmc|intra|CEL-Seq2_pbmc1|fold4,pbmc,intra,cell_type_original,172,31,50,CEL-Seq2 (pbmc1),CEL-Seq2 (pbmc1),,4.0
+pbmc|intra|Drop-Seq_pbmc1|fold0,pbmc,intra,cell_type_original,2190,387,645,Drop-Seq (pbmc1),Drop-Seq (pbmc1),,0.0
+pbmc|intra|Drop-Seq_pbmc1|fold1,pbmc,intra,cell_type_original,2190,387,645,Drop-Seq (pbmc1),Drop-Seq (pbmc1),,1.0
+pbmc|intra|Drop-Seq_pbmc1|fold2,pbmc,intra,cell_type_original,2191,387,644,Drop-Seq (pbmc1),Drop-Seq (pbmc1),,2.0
+pbmc|intra|Drop-Seq_pbmc1|fold3,pbmc,intra,cell_type_original,2191,387,644,Drop-Seq (pbmc1),Drop-Seq (pbmc1),,3.0
+pbmc|intra|Drop-Seq_pbmc1|fold4,pbmc,intra,cell_type_original,2191,387,644,Drop-Seq (pbmc1),Drop-Seq (pbmc1),,4.0
+pbmc|intra|Seq-Well_pbmc1|fold0,pbmc,intra,cell_type_original,2159,381,636,Seq-Well (pbmc1),Seq-Well (pbmc1),,0.0
+pbmc|intra|Seq-Well_pbmc1|fold1,pbmc,intra,cell_type_original,2159,382,635,Seq-Well (pbmc1),Seq-Well (pbmc1),,1.0
+pbmc|intra|Seq-Well_pbmc1|fold2,pbmc,intra,cell_type_original,2159,382,635,Seq-Well (pbmc1),Seq-Well (pbmc1),,2.0
+pbmc|intra|Seq-Well_pbmc1|fold3,pbmc,intra,cell_type_original,2159,382,635,Seq-Well (pbmc1),Seq-Well (pbmc1),,3.0
+pbmc|intra|Seq-Well_pbmc1|fold4,pbmc,intra,cell_type_original,2159,382,635,Seq-Well (pbmc1),Seq-Well (pbmc1),,4.0
+pbmc|intra|Smart-Seq2_pbmc1|fold0,pbmc,intra,cell_type_original,166,30,49,Smart-Seq2 (pbmc1),Smart-Seq2 (pbmc1),,0.0
+pbmc|intra|Smart-Seq2_pbmc1|fold1,pbmc,intra,cell_type_original,166,30,49,Smart-Seq2 (pbmc1),Smart-Seq2 (pbmc1),,1.0
+pbmc|intra|Smart-Seq2_pbmc1|fold2,pbmc,intra,cell_type_original,166,30,49,Smart-Seq2 (pbmc1),Smart-Seq2 (pbmc1),,2.0
+pbmc|intra|Smart-Seq2_pbmc1|fold3,pbmc,intra,cell_type_original,166,30,49,Smart-Seq2 (pbmc1),Smart-Seq2 (pbmc1),,3.0
+pbmc|intra|Smart-Seq2_pbmc1|fold4,pbmc,intra,cell_type_original,166,30,49,Smart-Seq2 (pbmc1),Smart-Seq2 (pbmc1),,4.0
+pbmc|intra|inDrop_pbmc1|fold0,pbmc,intra,cell_type_original,2190,387,645,inDrop (pbmc1),inDrop (pbmc1),,0.0
+pbmc|intra|inDrop_pbmc1|fold1,pbmc,intra,cell_type_original,2190,387,645,inDrop (pbmc1),inDrop (pbmc1),,1.0
+pbmc|intra|inDrop_pbmc1|fold2,pbmc,intra,cell_type_original,2191,387,644,inDrop (pbmc1),inDrop (pbmc1),,2.0
+pbmc|intra|inDrop_pbmc1|fold3,pbmc,intra,cell_type_original,2191,387,644,inDrop (pbmc1),inDrop (pbmc1),,3.0
+pbmc|intra|inDrop_pbmc1|fold4,pbmc,intra,cell_type_original,2191,387,644,inDrop (pbmc1),inDrop (pbmc1),,4.0
+pbmc|cross|test=10Xv2 (pbmc2),pbmc,cross,cell_type,5477,967,3362,10Xv2 (pbmc1),10Xv2 (pbmc2),,
+pbmc|cross|test=10Xv3 (pbmc1),pbmc,cross,cell_type,5477,967,3222,10Xv2 (pbmc1),10Xv3 (pbmc1),,
+pbmc|cross|test=CEL-Seq2 (pbmc1),pbmc,cross,cell_type,5477,967,253,10Xv2 (pbmc1),CEL-Seq2 (pbmc1),,
+pbmc|cross|test=Drop-Seq (pbmc1),pbmc,cross,cell_type,5477,967,3222,10Xv2 (pbmc1),Drop-Seq (pbmc1),,
+pbmc|cross|test=Seq-Well (pbmc1),pbmc,cross,cell_type,5477,967,3176,10Xv2 (pbmc1),Seq-Well (pbmc1),,
+pbmc|cross|test=Smart-Seq2 (pbmc1),pbmc,cross,cell_type,5477,967,253,10Xv2 (pbmc1),Smart-Seq2 (pbmc1),,
+pbmc|cross|test=inDrop (pbmc1),pbmc,cross,cell_type,5477,967,3222,10Xv2 (pbmc1),inDrop (pbmc1),,
+pbmc|openset|heldout=B cell,pbmc,openset,cell_type,4902,866,16710,10Xv2 (pbmc1),10Xv2 (pbmc2);10Xv3 (pbmc1);CEL-Seq2 (pbmc1);Drop-Seq (pbmc1);Seq-Well (pbmc1);Smart-Seq2 (pbmc1);inDrop (pbmc1),B cell,
+pbmc|openset|heldout=CD14+ monocyte,pbmc,openset,cell_type,4611,814,16710,10Xv2 (pbmc1),10Xv2 (pbmc2);10Xv3 (pbmc1);CEL-Seq2 (pbmc1);Drop-Seq (pbmc1);Seq-Well (pbmc1);Smart-Seq2 (pbmc1);inDrop (pbmc1),CD14+ monocyte,
+pbmc|openset|heldout=CD16+ monocyte,pbmc,openset,cell_type,5328,941,16710,10Xv2 (pbmc1),10Xv2 (pbmc2);10Xv3 (pbmc1);CEL-Seq2 (pbmc1);Drop-Seq (pbmc1);Seq-Well (pbmc1);Smart-Seq2 (pbmc1);inDrop (pbmc1),CD16+ monocyte,
+pbmc|openset|heldout=CD4+ T cell,pbmc,openset,cell_type,4238,748,16710,10Xv2 (pbmc1),10Xv2 (pbmc2);10Xv3 (pbmc1);CEL-Seq2 (pbmc1);Drop-Seq (pbmc1);Seq-Well (pbmc1);Smart-Seq2 (pbmc1);inDrop (pbmc1),CD4+ T cell,
+pbmc|openset|heldout=Cytotoxic T cell,pbmc,openset,cell_type,3668,648,16710,10Xv2 (pbmc1),10Xv2 (pbmc2);10Xv3 (pbmc1);CEL-Seq2 (pbmc1);Drop-Seq (pbmc1);Seq-Well (pbmc1);Smart-Seq2 (pbmc1);inDrop (pbmc1),Cytotoxic T cell,
+pbmc|openset|heldout=Dendritic cell,pbmc,openset,cell_type,5402,954,16710,10Xv2 (pbmc1),10Xv2 (pbmc2);10Xv3 (pbmc1);CEL-Seq2 (pbmc1);Drop-Seq (pbmc1);Seq-Well (pbmc1);Smart-Seq2 (pbmc1);inDrop (pbmc1),Dendritic cell,
+pbmc|openset|heldout=Megakaryocyte,pbmc,openset,cell_type,5109,902,16710,10Xv2 (pbmc1),10Xv2 (pbmc2);10Xv3 (pbmc1);CEL-Seq2 (pbmc1);Drop-Seq (pbmc1);Seq-Well (pbmc1);Smart-Seq2 (pbmc1);inDrop (pbmc1),Megakaryocyte,
+pbmc|openset|heldout=Natural killer cell,pbmc,openset,cell_type,5112,903,16710,10Xv2 (pbmc1),10Xv2 (pbmc2);10Xv3 (pbmc1);CEL-Seq2 (pbmc1);Drop-Seq (pbmc1);Seq-Well (pbmc1);Smart-Seq2 (pbmc1);inDrop (pbmc1),Natural killer cell,
+pbmc|openset|heldout=Plasmacytoid dendritic cell,pbmc,openset,cell_type,5445,961,16710,10Xv2 (pbmc1),10Xv2 (pbmc2);10Xv3 (pbmc1);CEL-Seq2 (pbmc1);Drop-Seq (pbmc1);Seq-Well (pbmc1);Smart-Seq2 (pbmc1);inDrop (pbmc1),Plasmacytoid dendritic cell,
+tabula_muris|intra|Droplet_10x|fold0,tabula_muris,intra,cell_type_original,37308,6584,10973,Droplet (10x),Droplet (10x),,0.0
+tabula_muris|intra|Droplet_10x|fold1,tabula_muris,intra,cell_type_original,37308,6584,10973,Droplet (10x),Droplet (10x),,1.0
+tabula_muris|intra|Droplet_10x|fold2,tabula_muris,intra,cell_type_original,37308,6584,10973,Droplet (10x),Droplet (10x),,2.0
+tabula_muris|intra|Droplet_10x|fold3,tabula_muris,intra,cell_type_original,37308,6584,10973,Droplet (10x),Droplet (10x),,3.0
+tabula_muris|intra|Droplet_10x|fold4,tabula_muris,intra,cell_type_original,37308,6584,10973,Droplet (10x),Droplet (10x),,4.0
+tabula_muris|intra|FACS_Smart-seq2|fold0,tabula_muris,intra,cell_type_original,15895,2805,4676,FACS (Smart-seq2),FACS (Smart-seq2),,0.0
+tabula_muris|intra|FACS_Smart-seq2|fold1,tabula_muris,intra,cell_type_original,15895,2806,4675,FACS (Smart-seq2),FACS (Smart-seq2),,1.0
+tabula_muris|intra|FACS_Smart-seq2|fold2,tabula_muris,intra,cell_type_original,15895,2806,4675,FACS (Smart-seq2),FACS (Smart-seq2),,2.0
+tabula_muris|intra|FACS_Smart-seq2|fold3,tabula_muris,intra,cell_type_original,15895,2806,4675,FACS (Smart-seq2),FACS (Smart-seq2),,3.0
+tabula_muris|intra|FACS_Smart-seq2|fold4,tabula_muris,intra,cell_type_original,15895,2806,4675,FACS (Smart-seq2),FACS (Smart-seq2),,4.0
+tabula_muris|cross|FACS (Smart-seq2)->Droplet (10x),tabula_muris,cross,cell_type,19869,3507,54865,FACS (Smart-seq2),Droplet (10x),,
+tabula_muris|cross|Droplet (10x)->FACS (Smart-seq2),tabula_muris,cross,cell_type,46635,8230,23376,Droplet (10x),FACS (Smart-seq2),,
+tabula_muris|openset|heldout=B cell,tabula_muris,openset,cell_type,18586,3280,50753,FACS (Smart-seq2),Droplet (10x),B cell,
+tabula_muris|openset|heldout=T cell,tabula_muris,openset,cell_type,19495,3441,50753,FACS (Smart-seq2),Droplet (10x),T cell,
+tabula_muris|openset|heldout=basal cell of epidermis,tabula_muris,openset,cell_type,18946,3344,50753,FACS (Smart-seq2),Droplet (10x),basal cell of epidermis,
+tabula_muris|openset|heldout=endothelial cell,tabula_muris,openset,cell_type,18346,3238,50753,FACS (Smart-seq2),Droplet (10x),endothelial cell,
+tabula_muris|openset|heldout=hepatocyte,tabula_muris,openset,cell_type,19537,3448,50753,FACS (Smart-seq2),Droplet (10x),hepatocyte,
+tabula_muris|openset|heldout=immature T cell,tabula_muris,openset,cell_type,18733,3306,50753,FACS (Smart-seq2),Droplet (10x),immature T cell,
+tabula_muris|openset|heldout=keratinocyte,tabula_muris,openset,cell_type,19589,3457,50753,FACS (Smart-seq2),Droplet (10x),keratinocyte,
+tabula_muris|openset|heldout=macrophage,tabula_muris,openset,cell_type,19612,3461,50753,FACS (Smart-seq2),Droplet (10x),macrophage,
+tabula_muris|openset|heldout=mesenchymal cell,tabula_muris,openset,cell_type,19164,3382,50753,FACS (Smart-seq2),Droplet (10x),mesenchymal cell,
+tabula_muris|openset|heldout=stromal cell,tabula_muris,openset,cell_type,19136,3377,50753,FACS (Smart-seq2),Droplet (10x),stromal cell,
+tabula_muris|openset|natural=Droplet_unique,tabula_muris,openset,cell_type,19869,3507,54865,FACS (Smart-seq2),Droplet (10x),Fraction A pre-pro B cell;Langerhans cell;alveolar macrophage;dendritic cell;duct epithelial cell;early pro-B cell;erythroblast;kidney capillary endothelial cell;kidney cell;kidney loop of Henle ascending limb epithelial cell;kidney proximal straight tubule epithelial cell;mast cell;mesangial cell;neuroendocrine cell;non-classical monocyte;proerythroblast;promonocyte;type II pneumocyte,
+lung_covid|intra|all|fold0,lung_covid,intra,cell_type_original,44752,7898,13163,all,all,,0.0
+lung_covid|intra|all|fold1,lung_covid,intra,cell_type_original,44752,7898,13163,all,all,,1.0
+lung_covid|intra|all|fold2,lung_covid,intra,cell_type_original,44752,7898,13163,all,all,,2.0
+lung_covid|intra|all|fold3,lung_covid,intra,cell_type_original,44753,7898,13162,all,all,,3.0
+lung_covid|intra|all|fold4,lung_covid,intra,cell_type_original,44753,7898,13162,all,all,,4.0
+lung_covid|cross|Healthy+Moderate->Severe,lung_covid,cross,cell_type,24814,4380,36619,Healthy;Moderate,Severe,,
+lung_covid|openset|heldout=B,lung_covid,openset,cell_type,24714,4362,36619,Healthy;Moderate,Severe,B,
+lung_covid|openset|heldout=Epithelial,lung_covid,openset,cell_type,23406,4131,36619,Healthy;Moderate,Severe,Epithelial,
+lung_covid|openset|heldout=Macrophages,lung_covid,openset,cell_type,5356,946,36619,Healthy;Moderate,Severe,Macrophages,
+lung_covid|openset|heldout=Mast,lung_covid,openset,cell_type,24788,4375,36619,Healthy;Moderate,Severe,Mast,
+lung_covid|openset|heldout=NK,lung_covid,openset,cell_type,24479,4320,36619,Healthy;Moderate,Severe,NK,
+lung_covid|openset|heldout=T,lung_covid,openset,cell_type,21958,3876,36619,Healthy;Moderate,Severe,T,
+lung_covid|openset|heldout=mDC,lung_covid,openset,cell_type,24267,4283,36619,Healthy;Moderate,Severe,mDC,
+lung_covid|openset|heldout=pDC,lung_covid,openset,cell_type,24750,4368,36619,Healthy;Moderate,Severe,pDC,
+lung_covid|openset|natural=Neutrophil,lung_covid,openset,cell_type,24811,4379,36619,Healthy;Moderate,Severe,Neutrophil,

@@ -1,0 +1,31 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS & Editor Metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.user
+
+# Large Raw/Processed scRNA-seq Datasets (download via code/real_data/download_benchmarks.py)
+data/real/raw/
+data/real/processed/*.h5ad
+*.h5ad
+!data/demo/
+!data/demo/*.h5ad
+*.tar
+*.tar.gz
+*.zip
+
+# Large Per-Cell Prediction Dumps & Runtime Logs
+results/real_benchmark/predictions/
+results/real_benchmark/logs/
+*.log
+*.pid
