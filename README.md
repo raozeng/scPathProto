@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)](requirements.txt)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg)](https://pytorch.org/)
 
-Official implementation, pretrained real-atlas checkpoints (`.pth` and `.pkl`), complete 126-task benchmark tables, mechanistic/clinical experiment outputs, and publication-grade vector figures for:
+Official implementation, pretrained checkpoints (`.pth` and `.pkl`), 126-task benchmark tables, mechanistic/clinical source tables, and reproducible figure-generation scripts for:
 
 > **scPathProto: Pathway-Guided Evidential Prototype Learning for Cross-Platform and Open-Set Single-Cell Annotation**  
 > Fang Fang<sup>1</sup>, Yonghui Jiang<sup>2,*</sup>, and Rao Zeng<sup>2,3,*</sup>  
@@ -113,10 +113,10 @@ scPathProto/
 │   ├── README.md                              # Public accessions, automated download & SHA-256 verification
 │   ├── demo/pbmc_demo_500cells.h5ad           # Bundled 536-cell real PBMC demo slice (9 lineages, 8 batches)
 │   └── real/processed/                        # Per-atlas celltype-by-batch composition CSVs & .h5ad checksums
-├── figures/                                   # All 15 final publication figures (vector .pdf + 300-DPI .png)
+├── figures/                                   # Overview PNGs for README (run plotting scripts to generate all paper figures)
 └── results/
     ├── real_benchmark/                        # Complete 126-task benchmark metrics, per-class F1 & runtimes
-    └── tables/                                # All 47 verified CSV tables backing every figure & table in the paper
+    └── tables/                                # All 47 CSV source tables backing every figure & table in the paper
 ```
 
 ---
@@ -158,12 +158,14 @@ python3 code/real_data/build_real_figure_tables.py
 python3 code/real_data/build_mechanistic_experiments.py
 python3 code/real_data/build_clinical_and_regulon_experiments.py
 
-# D. Regenerate all 15 publication figures directly from results/tables/*.csv (no raw .h5ad needed!)
+# D. Generate all paper figures (fig0–fig13 & graphical abstract, PDF + PNG) directly from results/tables/*.csv (no raw .h5ad needed)
 python3 code/plot_architecture_figure.py
 python3 code/plot_paper_figures.py
 python3 code/plot_mechanistic_figures.py
 python3 code/plot_clinical_and_regulon_figures.py
 ```
+
+> **Note on Figures:** Only the overview schematics (`graphical_abstract.png` and `fig0_model_architecture.png`) are bundled in `figures/` for README display. All 47 underlying source tables are provided in `results/tables/`, and running the four plotting scripts above reproduces all paper figures (`fig0`–`fig13`) in both vector `.pdf` and `.png` formats.
 
 ---
 
